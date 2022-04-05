@@ -5,5 +5,5 @@
 # a senha está no discord é uma data
 # a senha é uma data importante
 # utilize https://onlineutf8tools.com
-# para descobrir a mensagem escrita vc terá que converter texto em binário
+# para descobrir a mensagem escrita vc terá que converter binário em texto
 # e depois hexadecimal em texto
