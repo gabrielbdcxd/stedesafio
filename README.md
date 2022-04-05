@@ -5,4 +5,4 @@
 # a senha está no discord é uma data
 # a senha é uma data importante
 # para descobrir a mensagem escrita vc terá que converter texto em binário
-# e depois texto em hexadecimal 
+# e depois hexadecimal em texto
